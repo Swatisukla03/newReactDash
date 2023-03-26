@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newReactDash/static/css/main.88d4e429.css",
+    "main.js": "/newReactDash/static/js/main.f9b538e1.js",
+    "index.html": "/newReactDash/index.html",
+    "main.88d4e429.css.map": "/newReactDash/static/css/main.88d4e429.css.map",
+    "main.f9b538e1.js.map": "/newReactDash/static/js/main.f9b538e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d4e429.css",
+    "static/js/main.f9b538e1.js"
+  ]
+}
